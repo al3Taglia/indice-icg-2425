@@ -3,12 +3,12 @@ body {
 }
 
 ul {
-    margin-top: 6%;
+    margin-top: 20px;
 }
 
 li {
     display: flex;
-    margin-top: 5%;
+    margin-top: 10px;
 
 }
 
